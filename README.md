@@ -1,0 +1,1 @@
+**The BookScraper project is a web scraping tool designed to extract comprehensive data about books listed on the Books to Scrape website. The goal is to automate the process of collecting structured data from an unstructured HTML website using Python and libraries like requests, BeautifulSoup, and pandas.**
